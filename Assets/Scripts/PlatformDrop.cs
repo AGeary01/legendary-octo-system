@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlatformDrop : MonoBehaviour {
 
     GameObject Ground;
-    public float timer = 6f;
+    public float timer = 5f;
 	// Update is called once per frame
 	void Update ()
     {

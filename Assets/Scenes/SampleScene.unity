@@ -3359,7 +3359,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1743587978}
   m_LocalRotation: {x: 0.7037976, y: -0.066839494, z: 0.70411927, w: -0.06646481}
-  m_LocalPosition: {x: -4, y: -1756.1, z: 3641.4}
+  m_LocalPosition: {x: -4, y: -1756.9, z: 3646.8}
   m_LocalScale: {x: 370.00143, y: 0.10000004, z: 227.00107}
   m_Children: []
   m_Father: {fileID: 1744912847}
@@ -4059,7 +4059,7 @@ Prefab:
     - target: {fileID: 59015439480010806, guid: 0242180c97bb44841820b90469ec2aff,
         type: 2}
       propertyPath: m_Motor.targetVelocity
-      value: 600
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 4700482869129666, guid: 0242180c97bb44841820b90469ec2aff, type: 2}
       propertyPath: m_LocalScale.y
